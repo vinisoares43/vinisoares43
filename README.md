@@ -1,6 +1,6 @@
-<h1 align="center"># 👋 Hello! Welcome to my Github profile.<h1>
-## My name is Viny and my nickname is "Venerable.Dev"!
-I'm 16 years old, and I'm studying programming. Lately I've been really interested in front-end and some back-end details. I've been learning more about CSS, JS and I've started getting into React Native.
+<h1 align="center"># 👋 Hello! Welcome to my Github profile.</h1>
+<h3 align="center">## My name is Viny and my nickname is "Venerable.Dev"!</h3>
+<h4 align="center">I'm 16 years old, and I'm studying programming. Lately I've been really interested in front-end and some back-end details. I've been learning more about CSS, JS and I've started getting into React Native.</h4>
 
 
 <h4 align="center">Studied Technologies </h4>
