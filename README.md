@@ -3,15 +3,13 @@
 I'm 16 years old, and I'm studying programming. Lately I've been really interested in front-end and some back-end details. I've been learning more about CSS, JS and I've started getting into React Native.
 
 
-<h4 align="center">Tecnologias em Progresso / Studied Technologies </h4>
+<h4 align="center">Studied Technologies </h4>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img heith="100px" witch="100px" src="https://skillicons.dev/icons?i=figma,html,css,js,py,ruby,c,docker,aws" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React Native">
+  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
+  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
+  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
   </a>
 </p>
 
