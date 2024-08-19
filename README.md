@@ -3,13 +3,18 @@
 I'm 16 years old, and I'm studying programming. Lately I've been really interested in front-end and some back-end details. I've been learning more about CSS, JS and I've started getting into React Native.
 
 
-## Estou aprendendo sobre
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-</div>
+<h4 align="center">Tecnologias em Progresso / Studied Technologies </h4>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img heith="100px" witch="100px" src="https://skillicons.dev/icons?i=figma,html,css,js,py,ruby,c,docker,aws" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  </a>
+</p>
+
 <div> 
   <a href="https://www.instagram.com/viny_aepi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:silvavinicios731@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
